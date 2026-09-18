@@ -1,8 +1,14 @@
 [
-  {
-    "roll": 42,
-    "name": "Om Mahesh Rane",
-    "course": "MCA",
-    "marks": 100.0
-  }
+    {
+        "roll": 42,
+        "name": "Om Rane",
+        "course": "MCA",
+        "marks": 99.0
+    },
+    {
+        "roll": 10,
+        "name": "Jitesh Vishwakarma",
+        "course": "MCA",
+        "marks": 100.0
+    }
 ]
