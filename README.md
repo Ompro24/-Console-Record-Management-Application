@@ -1,3 +1,4 @@
+
 # Console Record Management System
 
 ## Project Description
@@ -57,6 +58,36 @@ python main.py
 5. Delete Student
 6. Exit
 ```
+## Screenshots
+```
+1.Add Students Output
+```
+<img width="1448" height="587" alt="image" src="https://github.com/user-attachments/assets/148d2dc5-5572-4c34-a8cf-1a281f607839" />
+
+```text
+2.View Students Output
+```
+<img width="1505" height="642" alt="image" src="https://github.com/user-attachments/assets/0c5705f4-7209-4cd3-906b-eba5c3488caf" />
+
+```
+3.Search Students Output
+```
+
+<img width="1513" height="632" alt="image" src="https://github.com/user-attachments/assets/70813e8a-8e57-449e-8357-feb280b0fb8c" />
+
+```
+4. Update Student Output
+```
+<img width="1509" height="599" alt="image" src="https://github.com/user-attachments/assets/663b8bba-ae11-4f1f-bae8-0e4e8cc18d23" />
+
+
+```
+5. Delete Student and Exit Output
+```
+
+<img width="1508" height="532" alt="image" src="https://github.com/user-attachments/assets/7ec73472-8554-4d3b-91d3-bd8e5e4b38e0" />
+
+
 
 ## Creator
 
