@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "roll": 42,
+    "name": "Om Mahesh Rane",
+    "course": "MCA",
+    "marks": 100.0
+  }
+]
