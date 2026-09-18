@@ -49,7 +49,7 @@ python main.py
 ## Sample Menu
 
 ```text
---- Student Record Management ---
+--- Console Student Record Management ---
 1. Add Student
 2. View Students
 3. Search Student
