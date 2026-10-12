@@ -74,11 +74,11 @@ The program also checks for duplicate roll numbers and displays suitable message
 ```text
 Console-Record-Management-Application/
 │
+├── README.md
+├── Report_Console_Record_Management.md
 ├── main.py
 ├── students.json
-├── README.md
-├── REPORT.md
-└── screenshots/
+
 ```
 
 ### File Description
